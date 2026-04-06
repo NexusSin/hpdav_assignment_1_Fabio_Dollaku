@@ -23,3 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 .idea
 .vscode
+
+# course material (not part of submission)
+Tuto5___MultiDim___redux.pdf
+prompts_ai.docx
